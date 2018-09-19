@@ -1,0 +1,3 @@
+/home/ssai-cnn/utils/CMakeFiles/evaluation.dir
+/home/ssai-cnn/utils/CMakeFiles/patches.dir
+/home/ssai-cnn/utils/CMakeFiles/transform.dir
